@@ -1,4 +1,4 @@
-#  
+#  smart Alfred for macOS Workflow | version history + real-time editing offers the most advanced Alfred for macOS workflow, with version history and real-time editing. Ideal for
 
 
 
